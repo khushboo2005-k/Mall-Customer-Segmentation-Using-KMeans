@@ -1,0 +1,6 @@
+Cluster,Customer_Count,Median_Income,Median_Spending,Average_Age,Segment_Name
+0,81,54.0,50.0,42.72,Average Customers
+1,39,79.0,83.0,32.69,Premium High Spenders
+2,22,24.5,77.0,25.27,Budget High Spenders
+3,35,85.0,16.0,41.11,Premium Low Spenders
+4,23,25.0,17.0,45.22,Budget Low Spenders

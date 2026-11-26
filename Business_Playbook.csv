@@ -1,0 +1,6 @@
+Segment,Action,Success Metric,Risk
+Budget High Spenders,Offer loyalty rewards and premium deals,Repeat purchase rate,Too many discounts reduce profit
+Budget Low Spenders,Offer affordable discounts and combo deals,Conversion rate,Low response to promotions
+Premium High Spenders,Provide VIP membership and exclusive offers,Average transaction value,High-value customers may leave
+Premium Low Spenders,Use personalized promotions to increase spending,Spending score improvement,Promotions may not change behaviour
+Average Customers,Use seasonal offers and product recommendations,Monthly sales growth,Generic offers may be ignored
